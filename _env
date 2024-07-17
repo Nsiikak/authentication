@@ -1,0 +1,7 @@
+DB_URI = mongodb+srv://instagram:mark1234@cluster0.irl84ue.mongodb.net/userlogins
+
+PORT=4000
+
+JWT_SECRET=do not fuck with me
+JWT_EXPIRES_IN =30m
+JWT_ALGORITHM= HS512
